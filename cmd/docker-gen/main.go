@@ -9,7 +9,7 @@ import (
 	"sync"
 
 	"github.com/BurntSushi/toml"
-	docker "github.com/fsouza/go-dockerclient"
+	docker "github.com/iLem0n/go-dockerclient"
 	"github.com/jwilder/docker-gen"
 )
 
