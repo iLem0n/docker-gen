@@ -12,8 +12,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/fsouza/go-dockerclient"
-	dockertest "github.com/fsouza/go-dockerclient/testing"
+	"github.com/iLem0n/go-dockerclient"
+	dockertest "github.com/iLem0n/go-dockerclient/testing"
 )
 
 func TestGenerateFromEvents(t *testing.T) {
