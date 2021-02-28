@@ -11,7 +11,7 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/fsouza/go-dockerclient"
+	"github.com/iLem0n/go-dockerclient"
 )
 
 type generator struct {
