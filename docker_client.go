@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"strings"
 
-	docker "github.com/fsouza/go-dockerclient"
+	docker "github.com/iLem0n/go-dockerclient"
 )
 
 func NewDockerClient(endpoint string, tlsVerify bool, tlsCert, tlsCaCert, tlsKey string) (*docker.Client, error) {
