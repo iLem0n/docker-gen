@@ -6,7 +6,7 @@ import (
 	"regexp"
 	"sync"
 
-	"github.com/fsouza/go-dockerclient"
+	"github.com/iLem0n/go-dockerclient"
 )
 
 var (
